@@ -1,6 +1,5 @@
 package br.com.robson.ProjetoApiRest.api.exceptionhandler;
 
-import java.time.LocalDateTime;
 import java.time.OffsetDateTime;
 import java.util.ArrayList;
 import java.util.List;

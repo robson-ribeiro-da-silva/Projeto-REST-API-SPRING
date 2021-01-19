@@ -6,6 +6,4 @@ import org.springframework.stereotype.Repository;
 import br.com.robson.ProjetoApiRest.domain.model.OrdemServico;
 
 @Repository
-public interface OrdemServicoRepository extends JpaRepository<OrdemServico, Long>{
-	
-}
+public interface OrdemServicoRepository extends JpaRepository<OrdemServico, Long>{ }

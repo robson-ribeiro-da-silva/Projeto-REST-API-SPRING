@@ -8,7 +8,7 @@ public class ProjetoApiRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetoApiRestApplication.class, args);
-		System.out.println("OK");
+		System.out.println("Aplicação Inicializada Com Sucesso!");
 	}
 
 }
